@@ -1,4 +1,4 @@
-[![Important](Hola)
+[![Important](https://img.shields.io/badge/Important-blue)](https://shields.io)
 
 Necesitarás:
 
