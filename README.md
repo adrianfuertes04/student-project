@@ -1,4 +1,4 @@
-❗ Important
+<span style="color:red;">Important:</span>
 
 Necesitarás:
 
